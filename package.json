@@ -1,6 +1,6 @@
 {
   "name": "@acdi/eth-contract-class",
-  "version": "1.0.0-alfa.1",
+  "version": "1.0.0-alpha.1",
   "description": "generate js wrapper class around an ethereum contract",
   "main": "lib/generateClass.js",
   "directories": {
